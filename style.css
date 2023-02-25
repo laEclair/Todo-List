@@ -1,0 +1,62 @@
+body {
+	font-family: 'Courier New', Courier, monospace;
+	background-color:#689CD2;
+}
+#main {
+	margin-top: 5%;
+	margin-left: 30%;
+	margin-right: 30%;
+	margin-bottom: 5%;
+	padding: 20px;
+	padding-right: 25px;
+	background-color: #FFD373;
+	border-radius: 20px;
+}
+#inputBlock{
+	margin-top: 2%;
+
+}
+#inputText{
+	font-family: 'Courier New', Courier, monospace;
+	border-radius: 7px;
+}
+li{
+	text-align: left ;
+}
+#btnAdd {
+	font-family: 'Courier New', Courier, monospace;
+	border-radius: 7px;
+	background-color: aquamarine;
+}
+
+.completedBtn {
+	
+	background-color: rgb(117, 204, 117);
+	margin-left: 5px;
+	margin-bottom: 5px;
+}
+
+.removeBtn {
+	
+	background-color: rgb(227, 99, 99);
+	margin-left: 5px;
+	margin-bottom: 5px;
+}
+
+.activeTask {
+	list-style-type:none;
+	margin-top: 1%;
+	margin-bottom: 3%;
+	width: 100%;
+	border-radius: 7px;
+}
+.activeTask span {
+	overflow-wrap: break-word; 
+	display:block;
+	margin: 5px;
+}
+.inputredact{
+	font-family: 'Courier New', Courier, monospace;
+	border-radius: 7px;
+	margin: 5px;
+}
