@@ -8,6 +8,8 @@
 
 > Данные хранятся в LocalStorage браузера, что позволяет сохранять заметки даже при перезагрузке браузера.
 ---
-![Screen](https://user-images.githubusercontent.com/91024228/221403638-ccdd370a-2bbd-4ee9-a70b-28d153d896f5.PNG)
+
+![Screen](https://user-images.githubusercontent.com/91024228/221403724-3cac7779-f8a1-4d6d-88dd-05578c51e177.PNG)
+
 
 
