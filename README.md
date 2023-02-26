@@ -7,9 +7,11 @@
 - удалять заметку
 
 > Данные хранятся в LocalStorage браузера, что позволяет сохранять заметки даже при перезагрузке браузера.
+>
 ---
 
-![Screen](https://user-images.githubusercontent.com/91024228/221403724-3cac7779-f8a1-4d6d-88dd-05578c51e177.PNG)
+![Screen](https://user-images.githubusercontent.com/91024228/221403790-bcade114-3c52-4680-b1e5-4bfccaac1419.PNG)
+
 
 
 
